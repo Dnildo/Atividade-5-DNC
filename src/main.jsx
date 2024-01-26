@@ -11,7 +11,7 @@ import {
 
 import Home from './views/home/home.jsx';
 import Livros from './views/livros/Livros.jsx';
-import LivrosCadastro from './views/LivrosCadastro/LivrosCadastro';
+import LivrosCadastro from './views/livrosCadastro/LivrosCadastro';
 import LivrosEdicao from './views/livrosEdicao/livrosEdicao';
 import Header from './components/Header/Header.jsx';
 
